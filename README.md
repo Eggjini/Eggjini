@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Eggjini
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Visual C++, MySQL
+- 🌱 I’m currently learning Visual C++, Python, MySQL
 - 💞️ I’m looking to collaborate on ANY PROJECT
 - 📫 How to reach me Just send a main <egg.design@daum.net>
 
