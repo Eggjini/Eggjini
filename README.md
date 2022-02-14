@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @Eggjini
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Visual C++, Python, MySQL, Md
-- 💞️ I’m looking to translate Readme in Korean
 - 📫 Contact me Just send a mail <egg.design@daum.net>
 ## **Skills**
 
